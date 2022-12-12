@@ -24,7 +24,7 @@
     "@types/jquery": "^3.3.35",
     "bootstrap": "^4.4.1",
     "core-js": "^2.5.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.5.0",
     "path": "^0.12.7",
     "popper.js": "^1.16.1",
